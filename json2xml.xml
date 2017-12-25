@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<employee>
+    <address>pune</address>
+    <age>24</age>
+    <id>1</id>
+    <name>chandrakant</name>
+    <salary>100000</salary>
+</employee>
